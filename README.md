@@ -67,4 +67,4 @@ npm run dev
 Once both servers are running, the frontend should be accessible at `http://localhost:5173` and the backend API at `http://localhost:5000`.
 
 ## Contact
-For inquiries or feedback, reach out at **dhanujaaprakasam@gmail.com**.
+For inquiries or feedback, reach out at **gsathyasri369@gmail.com**.

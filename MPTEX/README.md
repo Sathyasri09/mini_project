@@ -49,4 +49,4 @@ MP TEXTILES is a feature-rich full-stack e-commerce website designed to provide 
 
 ## 📧 Contact
 
-For inquiries or feedback, reach out at **dhanujaaprakasam@gmail.com**.
+For inquiries or feedback, reach out at **gsathyasri369@gmail.com**.
